@@ -1,5 +1,6 @@
-### Hi there 👋{: .text-center }
-<img src"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
+### Hi there 👋
+{: .text-center }
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
 <h3 align="center">🛠 Tech Stack 🛠 <h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=Python&logoColor=white"/></a>
