@@ -3,6 +3,10 @@
 <h3 align="center">🛠 Tech Stack 🛠 <h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 </div>
 <!--
 **iamseungwoo/iamseungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
