@@ -2,7 +2,7 @@
   
   <img width="450" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
   <h2>🛠 Tech Stack 🛠 <h2>
-  <h4>I'm SeungWoo Byeon,</br> YeongNam University Computer Science & Engineering 21 👨‍💻 </h4>
+  <h4>I'm SeungWoo Byeon,YeongNam University Computer Science & Engineering 21 👨‍💻 </h4>
   <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a></br>
