@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#8e44ad&height=300&section=header&text=SeungwooByeon&fontColor=ffffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#8e44ad&height=300&section=header&text=SeungwooByeon&fontColor=ffffff&fontSize=90)
 <div align="center"> 
   <img width="450" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
   <h3>I'm SeungWoo Byeon,</br>YeongNam University Computer Science & Engineering 21 👨‍💻</h3>
